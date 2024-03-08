@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "303436745611",
+    "project_id": "foodecomerce-14b6c",
+    "storage_bucket": "foodecomerce-14b6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303436745611:android:2083a2cd11cc2b6555fd8e",
+        "android_client_info": {
+          "package_name": "com.foodecomerce.vape"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303436745611-pkjpmicrkdiihnnc3o1s0vsvtr1oce77.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.foodecomerce.vape",
+            "certificate_hash": "3a6be2584f34453edf4925db2706e849681e6edb"
+          }
+        },
+        {
+          "client_id": "303436745611-bcqpdqenbl75utf49k08ac2k1ro5d5tq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx-j7upswe8Kw9KGFOCD_Zz9blFiuE5ik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303436745611-bcqpdqenbl75utf49k08ac2k1ro5d5tq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
